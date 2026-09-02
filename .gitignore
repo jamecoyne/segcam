@@ -1,0 +1,8 @@
+# Build products
+segcam.app/
+build/
+
+# Syphon.framework is copied out of TouchDesigner.app or OBS.app at build time
+# (see build.sh) rather than vendored here — it belongs to its own project.
+
+.DS_Store

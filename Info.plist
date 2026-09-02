@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>segcam</string>
+    <key>CFBundleDisplayName</key>
+    <string>segcam</string>
+    <key>CFBundleExecutable</key>
+    <string>segcam</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.jamecoyne.segcam</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSCameraUsageDescription</key>
+    <string>segcam segments your webcam in real time — faces, bright regions, and moving objects.</string>
+</dict>
+</plist>
